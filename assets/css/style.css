@@ -1,0 +1,23 @@
+body{
+    background-image: url('../images/bricks.jpg');
+    
+}
+
+.crystalImages{
+    border-radius: 50%;
+    height: 125px;
+    width: 125px;
+    margin-top: 70px;
+    margin-right: 5px;
+}
+
+#targetNumber,
+#counter,
+#wins,
+#lose{
+    font-size: 40px;
+}
+
+#larger{
+    font-size: 50px;
+}
